@@ -1,2 +1,2 @@
 # Paper_Art_Lul
-#Два Дэбила = this is Power
+# Два Дэбила = this is Power
